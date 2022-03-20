@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162173056874",
+    "project_id": "witstop-1049d",
+    "storage_bucket": "witstop-1049d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162173056874:android:362a343c658590d0da1713",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162173056874-vi8naqakj72mpu9djf8sdssi3ramir01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojaH2hGiL5eS8Xy_lrbeTiMTtbzarVXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162173056874-vi8naqakj72mpu9djf8sdssi3ramir01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
